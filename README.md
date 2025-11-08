@@ -1,2 +1,2 @@
-# CHubbTraining
+# ChubbTraining
 for testing purpsose
